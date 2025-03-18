@@ -40,13 +40,10 @@
         <mxCell id="dY9p1FvlMWS7___GTTvZ-41" value="帧头检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="1370" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="dY9p1FvlMWS7___GTTvZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-42">
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="1310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="21" y="1555" />
-              <mxPoint x="21" y="1310" />
-            </Array>
+            <mxPoint x="20" y="1320" as="targetPoint" />
+            <mxPoint x="63" y="1564.5000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-42" value="校验和验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
