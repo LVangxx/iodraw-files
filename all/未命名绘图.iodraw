@@ -8,7 +8,7 @@
           <mxGeometry x="177" y="890" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-38" value="主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="163" y="989" width="98" height="98" as="geometry" />
+          <mxGeometry x="280" y="1050" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-39" value="处理中断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="69" y="1137" width="126" height="49" as="geometry" />
