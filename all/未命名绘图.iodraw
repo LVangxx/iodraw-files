@@ -20,7 +20,7 @@
           <mxGeometry x="71" y="1190" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-40" value="接收数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="71" y="1301" width="126" height="49" as="geometry" />
+          <mxGeometry x="71" y="1290" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-41" value="帧头检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="1390" width="113" height="113" as="geometry" />
@@ -73,7 +73,6 @@
           <mxGeometry x="0.0732" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="197" y="1530" />
-              <mxPoint x="197" y="1344" />
             </Array>
             <mxPoint x="163.29999999999973" y="1529" as="sourcePoint" />
             <mxPoint x="165.42000000000007" y="1349" as="targetPoint" />
