@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dY9p1FvlMWS7___GTTvZ-52" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0.999;entryY=0.804;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dY9p1FvlMWS7___GTTvZ-40">
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-52" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.959;exitY=0.047;entryX=0.75;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-42" target="dY9p1FvlMWS7___GTTvZ-40">
           <mxGeometry x="0.0732" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="197" y="1530" />
