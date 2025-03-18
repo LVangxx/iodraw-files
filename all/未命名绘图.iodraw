@@ -40,8 +40,11 @@
         <mxCell id="dY9p1FvlMWS7___GTTvZ-41" value="帧头检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="1370" width="113" height="113" as="geometry" />
         </mxCell>
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-42" target="dY9p1FvlMWS7___GTTvZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-42" value="校验和验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1530" width="145" height="49" as="geometry" />
+          <mxGeometry x="63" y="1530" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-43" value="解析PM值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="69" y="1620" width="130" height="49" as="geometry" />
