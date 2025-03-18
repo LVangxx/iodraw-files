@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dY9p1FvlMWS7___GTTvZ-37" value="D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1360" width="70" height="49" as="geometry" />
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-37" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1204.5" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-38" value="主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1301" width="98" height="98" as="geometry" />
+          <mxGeometry x="316" y="1180" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-39" value="处理中断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="1190" width="126" height="49" as="geometry" />
