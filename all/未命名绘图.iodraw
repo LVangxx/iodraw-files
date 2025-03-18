@@ -19,8 +19,14 @@
         <mxCell id="dY9p1FvlMWS7___GTTvZ-39" value="处理中断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="1190" width="126" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-40" target="dY9p1FvlMWS7___GTTvZ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-40" value="接收数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="1290" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-41" target="dY9p1FvlMWS7___GTTvZ-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-41" value="帧头检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="1370" width="113" height="113" as="geometry" />
