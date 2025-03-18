@@ -31,11 +31,14 @@
         <mxCell id="dY9p1FvlMWS7___GTTvZ-43" value="解析PM值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="67" y="1620" width="130" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-44" target="dY9p1FvlMWS7___GTTvZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-44" value="均值滤波" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="1711" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-45" value="更新全局变量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1760" width="157" height="49" as="geometry" />
+          <mxGeometry x="380" y="1711" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-48" value="USART2中断" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-39" target="dY9p1FvlMWS7___GTTvZ-40">
           <mxGeometry relative="1" as="geometry">
@@ -66,12 +69,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dY9p1FvlMWS7___GTTvZ-52" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0.67;entryY=1;rounded=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-42" target="dY9p1FvlMWS7___GTTvZ-40">
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-52" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0.67;entryY=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0732" y="-3" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="187" y="1531" />
-              <mxPoint x="187" y="1345" />
+              <mxPoint x="197" y="1530" />
+              <mxPoint x="197" y="1344" />
             </Array>
+            <mxPoint x="163.29999999999973" y="1529" as="sourcePoint" />
+            <mxPoint x="165.42000000000007" y="1349" as="targetPoint" />
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
