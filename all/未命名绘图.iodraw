@@ -8,7 +8,7 @@
           <mxGeometry x="580" y="1360" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-38" value="主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1350" width="98" height="98" as="geometry" />
+          <mxGeometry x="380" y="1301" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-39" value="处理中断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="69" y="1137" width="126" height="49" as="geometry" />
@@ -36,7 +36,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dY9p1FvlMWS7___GTTvZ-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-40" target="dY9p1FvlMWS7___GTTvZ-41">
+        <mxCell id="dY9p1FvlMWS7___GTTvZ-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.35;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-40" target="dY9p1FvlMWS7___GTTvZ-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="49" y="1345" />
