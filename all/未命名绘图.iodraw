@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dY9p1FvlMWS7___GTTvZ-37" value="D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1001" width="70" height="49" as="geometry" />
+          <mxGeometry x="580" y="1360" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-38" value="主循环" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1280" width="98" height="98" as="geometry" />
+          <mxGeometry x="390" y="1350" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-39" value="处理中断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="69" y="1137" width="126" height="49" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry y="1360" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-42" value="校验和验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1520" width="142" height="49" as="geometry" />
+          <mxGeometry x="61" y="1530" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-43" value="解析PM值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="67" y="1660" width="130" height="49" as="geometry" />
@@ -30,11 +30,6 @@
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-45" value="更新全局变量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250.5" y="1770" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="dY9p1FvlMWS7___GTTvZ-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-37" target="dY9p1FvlMWS7___GTTvZ-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dY9p1FvlMWS7___GTTvZ-48" value="USART2中断" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dY9p1FvlMWS7___GTTvZ-39" target="dY9p1FvlMWS7___GTTvZ-40">
           <mxGeometry relative="1" as="geometry">
