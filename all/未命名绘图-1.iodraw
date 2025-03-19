@@ -43,13 +43,6 @@
         <mxCell id="e3mPqwjUBRHUniSC_-vC-8" value="显示正常值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="650" width="141" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="e3mPqwjUBRHUniSC_-vC-13" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.46;entryY=0;rounded=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-5" target="e3mPqwjUBRHUniSC_-vC-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="80" y="599" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-5" target="e3mPqwjUBRHUniSC_-vC-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
