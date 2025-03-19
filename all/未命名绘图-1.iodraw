@@ -25,6 +25,9 @@
         <mxCell id="e3mPqwjUBRHUniSC_-vC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-5" target="e3mPqwjUBRHUniSC_-vC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e3mPqwjUBRHUniSC_-vC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-5" target="e3mPqwjUBRHUniSC_-vC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-5" value="数据 ≥ 阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="424" width="138" height="138" as="geometry" />
         </mxCell>
@@ -64,6 +67,9 @@
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-32" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3mPqwjUBRHUniSC_-vC-38" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
