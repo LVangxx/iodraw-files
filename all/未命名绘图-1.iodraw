@@ -22,6 +22,9 @@
         <mxCell id="e3mPqwjUBRHUniSC_-vC-5" value="数据 ≥ 阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="424" width="138" height="138" as="geometry" />
         </mxCell>
+        <mxCell id="e3mPqwjUBRHUniSC_-vC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-6" target="e3mPqwjUBRHUniSC_-vC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-6" value="LED闪烁提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10" y="349.5" width="150" height="49" as="geometry" />
         </mxCell>
