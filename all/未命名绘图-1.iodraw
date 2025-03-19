@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-8" value="显示正常值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="278.5" y="650" width="141" height="49" as="geometry" />
+          <mxGeometry x="278.5" y="615" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-25" value="完成" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="319.5" width="60" height="30" as="geometry" />
@@ -73,6 +73,9 @@
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-39" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3mPqwjUBRHUniSC_-vC-40" value="完成" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="329" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
