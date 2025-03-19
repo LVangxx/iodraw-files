@@ -10,14 +10,17 @@
         <mxCell id="e3mPqwjUBRHUniSC_-vC-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340.5" y="160" width="88" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="e3mPqwjUBRHUniSC_-vC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-3" target="e3mPqwjUBRHUniSC_-vC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-3" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="109" height="49" as="geometry" />
+          <mxGeometry x="294.5" y="220" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-4" target="e3mPqwjUBRHUniSC_-vC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-4" value="采集传感器数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="244" y="310" width="174" height="49" as="geometry" />
+          <mxGeometry x="262" y="310" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-5" value="数据 ≥ 阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="424" width="138" height="138" as="geometry" />
@@ -30,12 +33,6 @@
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-8" value="显示正常值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="650" width="141" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="e3mPqwjUBRHUniSC_-vC-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="338.5" y="374" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-13" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.46;entryY=0;rounded=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-5" target="e3mPqwjUBRHUniSC_-vC-6">
           <mxGeometry relative="1" as="geometry">
