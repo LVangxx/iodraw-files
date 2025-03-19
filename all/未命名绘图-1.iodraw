@@ -22,6 +22,9 @@
         <mxCell id="e3mPqwjUBRHUniSC_-vC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-5" target="e3mPqwjUBRHUniSC_-vC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e3mPqwjUBRHUniSC_-vC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-5" target="e3mPqwjUBRHUniSC_-vC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-5" value="数据 ≥ 阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="424" width="138" height="138" as="geometry" />
         </mxCell>
