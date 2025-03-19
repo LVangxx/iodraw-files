@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e3mPqwjUBRHUniSC_-vC-1" value="系统启动" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="e3mPqwjUBRHUniSC_-vC-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="88" height="34" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-2" value="初始化传感器/界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -17,16 +17,16 @@
           <mxGeometry x="180" y="302" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-5" value="数据 ≥ 阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="424" width="138" height="138" as="geometry" />
+          <mxGeometry x="280" y="424" width="138" height="138" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-6" value="LED闪烁提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="635" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-7" value="OLED显示闪烁提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="232" y="635" width="193" height="49" as="geometry" />
+          <mxGeometry x="260" y="700" width="193" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-8" value="显示正常值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="475" y="635" width="141" height="49" as="geometry" />
+          <mxGeometry x="600" y="650" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="e3mPqwjUBRHUniSC_-vC-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="e3mPqwjUBRHUniSC_-vC-1" target="e3mPqwjUBRHUniSC_-vC-2">
           <mxGeometry relative="1" as="geometry">
