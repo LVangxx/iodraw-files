@@ -97,12 +97,6 @@
             <mxPoint x="1100" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-52" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="960" as="sourcePoint" />
-            <mxPoint x="960" y="910" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
