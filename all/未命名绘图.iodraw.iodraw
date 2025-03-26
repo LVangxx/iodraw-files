@@ -14,10 +14,10 @@
           <mxGeometry x="1180" y="683" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-6" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="746" y="342" width="109" height="49" as="geometry" />
+          <mxGeometry x="1196" y="782" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-7" value="检测按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="738" y="466" width="126" height="49" as="geometry" />
+          <mxGeometry x="1188" y="906" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-8" value="按键按下？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="736" y="565" width="130" height="130" as="geometry" />
