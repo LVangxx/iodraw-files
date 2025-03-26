@@ -14,16 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-4" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="390" width="141" height="49" as="geometry" />
+          <mxGeometry x="1219.5" y="390" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-55" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-6" target="Vt26vd4Fg3Wkh4-qycC_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-6" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="990" y="390" width="109" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-56" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-7" target="Vt26vd4Fg3Wkh4-qycC_-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-7" value="检测按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="390" width="126" height="49" as="geometry" />
@@ -56,6 +53,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1113.9977419354839" y="640.0022580645161" as="sourcePoint" />
             <mxPoint x="1453.53" y="758.97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="500" as="sourcePoint" />
+            <mxPoint x="1110" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
