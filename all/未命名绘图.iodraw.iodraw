@@ -32,7 +32,7 @@
           <mxGeometry x="614" y="660" width="78" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-10" value="获取键码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="888" width="125" height="49" as="geometry" />
+          <mxGeometry x="605" y="930" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-11" target="Vt26vd4Fg3Wkh4-qycC_-12">
           <mxGeometry relative="1" as="geometry" />
