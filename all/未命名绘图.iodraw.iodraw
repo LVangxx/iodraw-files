@@ -8,10 +8,10 @@
           <mxGeometry x="335" y="441" width="352" height="477" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-3" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="754" y="20" width="94" height="49" as="geometry" />
+          <mxGeometry x="1204" y="584" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-4" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="119" width="141" height="49" as="geometry" />
+          <mxGeometry x="1180" y="683" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-6" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="746" y="342" width="109" height="49" as="geometry" />
@@ -72,7 +72,7 @@
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="801" y="218" as="targetPoint" />
+            <mxPoint x="1251" y="782" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-6" target="Vt26vd4Fg3Wkh4-qycC_-7">
