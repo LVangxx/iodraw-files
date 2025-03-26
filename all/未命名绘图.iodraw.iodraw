@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-3" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1204" y="584" width="94" height="49" as="geometry" />
+          <mxGeometry x="1332" y="738.5" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-4" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="683" width="141" height="49" as="geometry" />
+          <mxGeometry x="1100" y="720" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-6" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1196" y="782" width="109" height="49" as="geometry" />
+          <mxGeometry x="896.5" y="730" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-7" value="检测按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1188" y="906" width="126" height="49" as="geometry" />
+          <mxGeometry x="888" y="830" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-8" value="按键按下？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1186" y="1010" width="130" height="130" as="geometry" />
+          <mxGeometry x="886" y="917.5" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-9" value="是" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="406" y="745" width="78" height="49" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="175" y="844" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-11" value="否" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1321" y="1204" width="77" height="49" as="geometry" />
+          <mxGeometry x="1110" y="968" width="77" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-12" value="保持当前模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="722" y="1010" width="158" height="49" as="geometry" />
+          <mxGeometry x="1300" y="980" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-13" value="显示模式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="968" width="114" height="114" as="geometry" />
@@ -55,17 +55,6 @@
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-22" value="继续" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="558" y="844" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-3" target="Vt26vd4Fg3Wkh4-qycC_-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1251" y="782" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-6" target="Vt26vd4Fg3Wkh4-qycC_-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -76,24 +65,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.99;entryY=0.11;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-8" target="Vt26vd4Fg3Wkh4-qycC_-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="546" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=1;entryY=0.09;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-9" target="Vt26vd4Fg3Wkh4-qycC_-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="819" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0;entryY=0.21;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-11" target="Vt26vd4Fg3Wkh4-qycC_-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="525" y="819" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -148,11 +123,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-9" target="Vt26vd4Fg3Wkh4-qycC_-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-11" target="Vt26vd4Fg3Wkh4-qycC_-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
