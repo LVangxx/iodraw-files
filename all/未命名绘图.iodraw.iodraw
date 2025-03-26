@@ -22,23 +22,8 @@
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-7" value="检测按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="992" y="390" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-8" target="Vt26vd4Fg3Wkh4-qycC_-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-8" value="按键按下？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="990" y="477.5" width="130" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-10" value="获取键码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590.5" y="870" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-11" target="Vt26vd4Fg3Wkh4-qycC_-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-11" value="否" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="518" width="77" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-12" value="保持当前模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1384" y="518" width="158" height="49" as="geometry" />
+          <mxGeometry x="991.5" y="480" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-13" value="显示模式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="997" y="688" width="114" height="114" as="geometry" />
@@ -52,19 +37,15 @@
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-16" value="显示网络状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1215" y="720.5" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Vt26vd4Fg3Wkh4-qycC_-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="653" y="809" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-6" target="Vt26vd4Fg3Wkh4-qycC_-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-7" target="Vt26vd4Fg3Wkh4-qycC_-8">
+        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1055" y="477.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-33" value="0/1" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-13" target="Vt26vd4Fg3Wkh4-qycC_-14">
@@ -78,9 +59,6 @@
             <mxPoint x="1110.9977419354839" y="748.0022580645161" as="sourcePoint" />
             <mxPoint x="1450.53" y="866.97" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-49" value="未按下" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1134" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
