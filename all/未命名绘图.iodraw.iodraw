@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-2" value="定时器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="335" y="441" width="352" height="477" as="geometry" />
-        </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-3" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1204" y="584" width="94" height="49" as="geometry" />
         </mxCell>
@@ -51,12 +48,6 @@
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-18" value="更新显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="278" y="1353" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-19" value="计时器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="466" width="110" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-20" value="≥10秒？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="371" y="577" width="106" height="106" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-21" value="处理按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="382" y="844" width="126" height="49" as="geometry" />
@@ -163,28 +154,18 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-19" target="Vt26vd4Fg3Wkh4-qycC_-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-20" target="Vt26vd4Fg3Wkh4-qycC_-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-9" target="Vt26vd4Fg3Wkh4-qycC_-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0;entryY=0.11;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-20" target="Vt26vd4Fg3Wkh4-qycC_-11">
+        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0;entryY=0.11;rounded=0;" edge="1" parent="1" target="Vt26vd4Fg3Wkh4-qycC_-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="505" y="720" />
+              <mxPoint x="520" y="720" />
             </Array>
+            <mxPoint x="449.105263157895" y="657.8947368421052" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-11" target="Vt26vd4Fg3Wkh4-qycC_-22">
