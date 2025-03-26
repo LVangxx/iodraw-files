@@ -14,10 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-4" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1203.5" y="290" width="141" height="49" as="geometry" />
+          <mxGeometry x="1340" y="400" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-55" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-6" target="Vt26vd4Fg3Wkh4-qycC_-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-6" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000.5" y="290" width="109" height="49" as="geometry" />
+          <mxGeometry x="1186" y="400" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-7" value="检测按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="992" y="390" width="126" height="49" as="geometry" />
@@ -39,11 +42,6 @@
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-16" value="显示设备状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1203.5" y="612.5" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-6" target="Vt26vd4Fg3Wkh4-qycC_-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-7">
           <mxGeometry relative="1" as="geometry">
