@@ -44,22 +44,25 @@
           <mxGeometry x="1300" y="958" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-13" value="显示模式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="968" width="114" height="114" as="geometry" />
+          <mxGeometry x="705" y="1070" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-14" value="显示气体数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1155" width="157" height="49" as="geometry" />
+          <mxGeometry x="580" y="1257" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-15" value="显示粉尘数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="1155" width="157" height="49" as="geometry" />
+          <mxGeometry x="787" y="1257" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-16" value="显示网络状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="544" y="1155" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-17" value="读取传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1254" width="142" height="49" as="geometry" />
+          <mxGeometry x="795" y="1356" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-18" value="更新显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="278" y="1353" width="126" height="49" as="geometry" />
+          <mxGeometry x="803" y="1455" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-21" target="Vt26vd4Fg3Wkh4-qycC_-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-21" value="处理按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="830" width="126" height="49" as="geometry" />
@@ -74,13 +77,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=1;entryY=0.09;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-9" target="Vt26vd4Fg3Wkh4-qycC_-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="819" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-10" target="Vt26vd4Fg3Wkh4-qycC_-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -89,28 +85,29 @@
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-33" value="0/1" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-13" target="Vt26vd4Fg3Wkh4-qycC_-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="134" y="1119" />
+              <mxPoint x="659" y="1221" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-34" value="2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-13" target="Vt26vd4Fg3Wkh4-qycC_-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="341" y="1119" />
+              <mxPoint x="866" y="1221" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-35" value="3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-13" target="Vt26vd4Fg3Wkh4-qycC_-16">
+        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-35" value="3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="623" y="1119" />
+              <mxPoint x="1148" y="1221" />
             </Array>
+            <mxPoint x="1147.5" y="1257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-14" target="Vt26vd4Fg3Wkh4-qycC_-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="134" y="1229" />
+              <mxPoint x="659" y="1331" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,11 +116,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.25;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-16" target="Vt26vd4Fg3Wkh4-qycC_-17">
+        <mxCell id="Vt26vd4Fg3Wkh4-qycC_-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.25;rounded=0;" edge="1" parent="1" target="Vt26vd4Fg3Wkh4-qycC_-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="623" y="1229" />
+              <mxPoint x="1148" y="1331" />
             </Array>
+            <mxPoint x="1147.5" y="1306" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-17" target="Vt26vd4Fg3Wkh4-qycC_-18">
