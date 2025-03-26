@@ -47,7 +47,7 @@
           <mxGeometry x="925" y="1070" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-14" value="显示气体数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1184" width="157" height="49" as="geometry" />
+          <mxGeometry x="760" y="1250" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-15" value="显示粉尘数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1007" y="1257" width="157" height="49" as="geometry" />
