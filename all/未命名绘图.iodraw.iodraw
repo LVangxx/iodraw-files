@@ -23,7 +23,7 @@
           <mxGeometry x="1186" y="390" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-7" value="检测按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="992" y="390" width="126" height="49" as="geometry" />
+          <mxGeometry x="994" y="390" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-54" value="" style="edgeStyle=none;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;endArrow=block;" edge="1" parent="1" source="Vt26vd4Fg3Wkh4-qycC_-10" target="Vt26vd4Fg3Wkh4-qycC_-13">
           <mxGeometry relative="1" as="geometry" />
