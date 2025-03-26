@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-3" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="904" y="491.5" width="94" height="49" as="geometry" />
+          <mxGeometry x="1332" y="738.5" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-4" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="590.5" width="141" height="49" as="geometry" />
+          <mxGeometry x="1100" y="720" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-6" value="主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="896" y="689.5" width="109" height="49" as="geometry" />
+          <mxGeometry x="896.5" y="730" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Vt26vd4Fg3Wkh4-qycC_-7" value="检测按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="888" y="813.5" width="126" height="49" as="geometry" />
