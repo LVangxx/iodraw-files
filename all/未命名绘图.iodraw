@@ -23,10 +23,10 @@
           <mxGeometry x="308.75" y="1630" width="158" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-20" value="连接云平台" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="139" y="1630" width="91" height="34" as="geometry" />
+          <mxGeometry x="136" y="1630" width="91" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-21" value="发送接收数据" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="122" y="1700" width="122" height="34" as="geometry" />
+          <mxGeometry x="135.5" y="1700" width="94" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-22" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="356" y="1700" width="58" height="34" as="geometry" />
