@@ -14,7 +14,7 @@
           <mxGeometry x="145" y="1490" width="75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-17" value="设置STA模式" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1570" width="90" height="34" as="geometry" />
+          <mxGeometry x="137" y="1570" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-18" value="是否连接WIFI?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="1471.5" width="135.5" height="108.5" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="308.75" y="1630" width="158" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-20" value="连接云平台" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1630" width="106" height="34" as="geometry" />
+          <mxGeometry x="139" y="1630" width="91" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-21" value="发送接收数据" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="122" y="1700" width="122" height="34" as="geometry" />
