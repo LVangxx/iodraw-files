@@ -8,16 +8,16 @@
           <mxGeometry x="90" y="1432" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-15" value="初始化" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="285.5" y="1330" width="74" height="34" as="geometry" />
+          <mxGeometry x="239.5" y="1440" width="74" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-16" value="AT测试" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1466" width="75" height="34" as="geometry" />
+          <mxGeometry x="239" y="1540" width="75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-17" value="设置STA模式" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1505" width="113" height="34" as="geometry" />
+          <mxGeometry x="220" y="1620" width="113" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-18" value="是否连接WIFI?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="247" y="1589" width="151" height="151" as="geometry" />
+          <mxGeometry x="384" y="1630" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="zcBMMYQYcutYYRMT_vM4-19" value="OLED显示连接状态" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="1813" width="158" height="34" as="geometry" />
