@@ -55,6 +55,85 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-14" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1230" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-15" value="初始化" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="286" y="1314" width="74" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-16" value="AT测试" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="239" y="1398" width="75" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-17" value="设置STA模式" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1505" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-18" value="是否连接WIFI?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1589" width="151" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-19" value="OLED显示连接状态" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="244" y="1813" width="158" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-20" value="连接云平台" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1897" width="106" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-21" value="发送接收数据" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="262" y="1981" width="122" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-22" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="294" y="2065" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-14" target="zcBMMYQYcutYYRMT_vM4-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-15" target="zcBMMYQYcutYYRMT_vM4-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="277" y="1373" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-16" target="zcBMMYQYcutYYRMT_vM4-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-17" target="zcBMMYQYcutYYRMT_vM4-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="277" y="1564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-27" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-18" target="zcBMMYQYcutYYRMT_vM4-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-19" target="zcBMMYQYcutYYRMT_vM4-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-20" target="zcBMMYQYcutYYRMT_vM4-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-21" target="zcBMMYQYcutYYRMT_vM4-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcBMMYQYcutYYRMT_vM4-31" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0;entryX=0.74;entryY=1;rounded=0;" edge="1" parent="1" source="zcBMMYQYcutYYRMT_vM4-18" target="zcBMMYQYcutYYRMT_vM4-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="368" y="1564" />
+              <mxPoint x="368" y="1373" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
